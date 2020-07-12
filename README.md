@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 
 <img align="right" width="30%" src="https://media.giphy.com/media/26DN2iTaW5mmmJtug/giphy.gif">Soy Alejandro, aquí algunos de mis intereses y cualidades.
+
 Vivo en 🇦🇷, tengo 31 años de edad y más de 15 en estrecha relación a proyectos en internet con amplios conocimientos en sitios web, marketing digital y redes sociales, e-commerce, algo de programación.
+
 En todo este tiempo también hice bastante de diseño y gestión integral de esos mismos proyectos (web hosting, finanzas, asesoría, etc). Seguro que podremos compartir algunas ideas o colaborar juntos en alguna iniciativa... Mirá más detalles en las próximas líneas.
 
 
