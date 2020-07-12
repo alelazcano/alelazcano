@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 Soy Alejandro, aquí algunos de mis intereses y cualidades. Vivo en 🇦🇷, tengo 31 años de edad y más de 15 en estrecha relación a proyectos en internet con amplios conocimientos en sitios web, marketing digital y redes sociales, e-commerce, algo de programación. También hice bastante de diseño y gestión integral de esos mismos proyectos (web hosting, finanzas, asesoría, etc). Seguro que podremos compartir algunas ideas o colaborar juntos en alguna iniciativa...
 
+-> ![](https://media.giphy.com/media/26DN2iTaW5mmmJtug/giphy.gif) <-
+
 #### _En lo personal..._
 - 📚 Lectura, me gusta aprender de todos los rubros y temas.
 - 🌇 Los atardeceres en soledad o con compañía, adoro esos momentos.
@@ -46,7 +48,7 @@ Soy Alejandro, aquí algunos de mis intereses y cualidades. Vivo en 🇦🇷, te
 
 También podés ver más de mí en [linkedin](https://linkedin.com/in/alejandrolazcano), mi perfil en [dev.to](https://dev.to/alelazcano) y encontrarme también en otras redes sociales como [Unsplash](https://unsplash.com/@lazcano).
 
-¿Qué me contás? ¡Vamos a hacerlo juntos!
+¿Qué me contás? ¡Lo hagamos, tenemos todo para el éxito!
 
 
 
