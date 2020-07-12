@@ -1,5 +1,7 @@
 ### ¡Hola! 👋
 
+> Creativo y curioso incansable, aprendiz fulltime. Diseño y programación web: +10 años usando WordPress, y ahora también e-commerce con Prestashop
+
 <!--
 **alelazcano/alelazcano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,20 +26,20 @@ Here are some ideas to get you started:
 
 Soy Alejandro, aquí algunos de mis intereses y cualidades. Vivo en 🇦🇷, tengo 31 años de edad y más de 15 en estrecha relación a proyectos en internet con amplios conocimientos en sitios web, marketing digital y redes sociales, e-commerce, algo de programación. También hice bastante de diseño y gestión integral de esos mismos proyectos (web hosting, finanzas, asesoría, etc). Seguro que podremos compartir algunas ideas o colaborar juntos en alguna iniciativa...
 
-####_En lo personal..._
+#### _En lo personal..._
 - 📚 Lectura, me gusta aprender de todos los rubros y temas.
 - 🌇 Los atardeceres en soledad o con compañía, adoro esos momentos.
 - 💸 Me gusta pensar el dinero como _un medio_ para acercarme a mis objetivos.
 - ⛰️ Las escapadas los fines de semana a las Sierras de Córdoba, caminata, ríos...
 
-####_A qué lo me dedico..._
+#### _A qué lo me dedico..._
 - 📊 Una década trabajando en redes de blogs, webs, WordPress, Community Manager y Marketing Digital.
 - 🛍️ Desde hace varios años, 100% dedicado al e-commerce, sobre todo pymes.
 - ✨ Actualmente trabajo en una agencia e-commerce, en la mesa de soporte Prestashop.
 - 🚀 Me gusta optimizar los sitios web en todos sus aspectos (SEO, WPO, UX, UI).
 - ✔️ Intento ser ordenado, organizarme, tener checklist y documentar mis procesos.
 
-####_También..._
+#### _También..._
 - 💬 Suelo escribir sobre ecommerce, blogs y marketing en varios sitios.
 - ⚡ Apoyo algunas webs educativas, ONGs solidarias y asesoría gratuita a microemprendedores.
 - 🇷🇺 En 2016 viajé durante 1 mes a Moscú, me encantaría volver pronto.
