@@ -52,6 +52,8 @@ En todo este tiempo también hice bastante de diseño y gestión integral de eso
 
 También podés ver más de mí en [linkedin](https://linkedin.com/in/alejandrolazcano), mi perfil en [dev.to](https://dev.to/alelazcano) y encontrarme también en otras redes sociales como [Unsplash](https://unsplash.com/@lazcano).
 
+<!-- Por último, lee más sobre [WordPress, Prestashop y medios de pago y correos para e-commerce en Argentina](https://ayudaecommerce.com) en _AyudaEcommerce.com_ un proyecto que reciéntemente comencé hace un año como un anotador/blog en localhost. -->
+
 ¿Qué me contás? ¡Lo hagamos, tenemos todo para el éxito!
 
 
