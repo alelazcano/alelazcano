@@ -46,13 +46,17 @@ En todo este tiempo también hice bastante de diseño y gestión integral de eso
 - ✔️ Intento ser ordenado, organizarme, tener checklist y documentar mis procesos.
 
 
-#### _También..._ <img align="right" width="30%" src="https://media-exp1.licdn.com/dms/image/C4E2DAQFAunbYLgZ9CQ/profile-treasury-image-shrink_1280_1280/0?e=1594692000&v=beta&t=6wxyL69009mr399Q2dIEONddlHQdVD4LCSF6FR3fpmY">
+#### _También..._ <img align="right" width="30%" src="https://giphy.com/embed/L8K62iTDkzGX6">
 - 💬 Suelo escribir sobre ecommerce, blogs y marketing en varios sitios.
 - 🎓 Brindé [talleres](http://cordoba.ir.ar/), [seminarios](https://www.facebook.com/events/573900942960933/) y [webinars](https://www.youtube.com/watch?v=xr5FlhpGekQ).
 - ⚡ Apoyo algunas webs educativas, ONGs solidarias y brindo ocasionalmente asesoría gratuita a microemprendedores.
 - 🇷🇺 En 2016 viajé durante 1 mes a Moscú, me encantaría volver pronto.
 
 También podés ver más de mí en [linkedin](https://linkedin.com/in/alejandrolazcano), mi perfil en [dev.to](https://dev.to/alelazcano) y encontrarme también en otras redes sociales como [Unsplash](https://unsplash.com/@lazcano).
+
+#### _Algunas cosas para mostrar..._ <img align="right" width"30%" src="https://giphy.com/embed/11vhCpFcD3um7m">
+
+#### _Viejos proyectos y nuevas ideas; todo se transforma_ <img align="right" width="30%" src="https://giphy.com/embed/yU0vrGBTI6TKg">
 
 <!-- Por último, lee más sobre [WordPress, Prestashop y medios de pago y correos para e-commerce en Argentina](https://ayudaecommerce.com) en _AyudaEcommerce.com_ un proyecto que reciéntemente comencé hace un año como un anotador/blog en localhost. -->
 
