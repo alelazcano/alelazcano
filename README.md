@@ -66,5 +66,9 @@ También podés ver más de mí en [linkedin](https://linkedin.com/in/alejandrol
 
 ¿Qué me contás? ¡Lo hagamos, tenemos todo para el éxito!
 
+https://media.giphy.com/media/d7IKIDx2UwRvlfZOOM/giphy.gif
 
+https://media.giphy.com/media/dXQaVcso0gEnVmlzcX/giphy.gif
+
+https://media.giphy.com/media/1pA5hJo0ubWqG0cHqp/giphy.gif
 
