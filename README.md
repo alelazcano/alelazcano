@@ -1,6 +1,6 @@
 ### ¡Hola! 👋
 
-> Creativo y curioso incansable, aprendiz fulltime. Diseño y programación web: +10 años usando WordPress, y ahora también e-commerce con Prestashop
+> Creativo y curioso incansable, aprendiz fulltime. Diseño y programación web: +10 años de experiencia con WordPress, y ahora actualmente coordinando la mesa de e-commerce con +140 tiendas Prestashop.
 
 <!--
 **alelazcano/alelazcano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +33,7 @@ En todo este tiempo también hice bastante de diseño y gestión integral de eso
 
 
 #### _En lo personal..._
-- 📚 Lectura, me gusta aprender de todos los rubros y temas.
+- 📚 Lectura, me gusta aprender de todos los rubros y temas: negocios, espiritualidad, ciencia _fácil_.
 - 🌇 Los atardeceres en soledad o con compañía, adoro esos momentos.
 - 💸 Me gusta pensar el dinero como _un medio_ para acercarme a mis objetivos.
 - ⛰️ Las escapadas los fines de semana a las Sierras de Córdoba, caminata, ríos...
@@ -54,9 +54,27 @@ En todo este tiempo también hice bastante de diseño y gestión integral de eso
 
 También podés ver más de mí en [linkedin](https://linkedin.com/in/alejandrolazcano), mi perfil en [dev.to](https://dev.to/alelazcano) y encontrarme también en otras redes sociales como [Unsplash](https://unsplash.com/@lazcano).
 
-#### _Algunas cosas para mostrar..._
+#### _Algunas cosas que me gustan del día a día laboral..._
 
-<img align="right" width="30%" src="https://media.giphy.com/media/11vhCpFcD3um7m/giphy.gif">
+<img align="center" width="30%" src="https://media.giphy.com/media/3zhxq2ttgN6rEw8SDx/giphy.gif">
+Pequeños arreglitos, bug fixes, sugerir de manera proactiva mejoras en UX/UI a los clientes.
+
+<img align="center" width="30%" src="https://media.giphy.com/media/11vhCpFcD3um7m/giphy.gif">
+
+Leer mucho, a diario, algunas páginas de la [Documentación Javascript](https://developer.mozilla.org/es/docs/Web/API/Console), descubrir cosas útiles para facilitar el trabajo, las rutinas, automatizar, armar pequeños script útiles. También para documentarlos, claro.
+
+<img align="center" width="30%" src="https://media.giphy.com/media/TqiwHbFBaZ4ti/giphy.gif">
+
+Me gusta mucho personalizar las páginas de error. Algún día publicaré algunas que pasaron a la historia en mis viejos trabajos, otras sólo por diversión. También me gusta desarrollar pequeñas funciones que manejen errores en mis scripts de pasatiempo.
+
+<img align="center" width="30%" src="https://media.giphy.com/media/1pA5hJo0ubWqG0cHqp/giphy.gif">
+
+Me gusta hacer backups, controlar regularmente el uptime, estadísticas, revisar la tendencia de algunas métricas. Esto me ha permitido, además del típico _romper y saber arreglarlo o aprender a hacerlo_, también de trabajar preventivamente y tener alguna idea o plan de contingencia. _No puede fallar, ¡VA a fallar!_
+
+<img align="center" width="30%" src="https://media.giphy.com/media/3oz8xT4M88PfOPcFmU/giphy.gif">
+
+Llamar a los clientes para comprender mejor sus requerimientos, hacer sugerencias, propuestas de mejora. También me toca a veces recibir llamadas de ventas, ¡son las que más me gustan!... aunque luego, bueno, se encarga del resto el asesor comercial. Me gusta poder explicar cosas complejas en lo técnico de forma fácil, sea al dueño de una pequeña pyme como al directivo de una multinacional.
+
 
 #### _Viejos proyectos y nuevas ideas; todo se transforma_
 
@@ -65,10 +83,4 @@ También podés ver más de mí en [linkedin](https://linkedin.com/in/alejandrol
 <!-- Por último, lee más sobre [WordPress, Prestashop y medios de pago y correos para e-commerce en Argentina](https://ayudaecommerce.com) en _AyudaEcommerce.com_ un proyecto que reciéntemente comencé hace un año como un anotador/blog en localhost. -->
 
 ¿Qué me contás? ¡Lo hagamos, tenemos todo para el éxito!
-
-https://media.giphy.com/media/d7IKIDx2UwRvlfZOOM/giphy.gif
-
-https://media.giphy.com/media/dXQaVcso0gEnVmlzcX/giphy.gif
-
-https://media.giphy.com/media/1pA5hJo0ubWqG0cHqp/giphy.gif
 
