@@ -57,7 +57,7 @@ También podés ver más de mí en [linkedin](https://linkedin.com/in/alejandrol
 
 <img align="left" width="15%" src="https://media.giphy.com/media/3zhxq2ttgN6rEw8SDx/giphy.gif">
 
-Pequeños arreglitos, bug fixes, sugerir de manera proactiva mejoras en UX/UI a los clientes.
+Pequeños arreglitos, bug fixes, sugerir de manera proactiva mejoras en UX/UI a los clientes. Optimizar la perfomance (WPO), SEO, redactar nuevos contenidos, indagar o especular incluso sobre tendencias. Me gusta probar nuevos pequeños script, aunque nunca terminen siendo una funcionalidad o maduren.
 
 <img align="right" width="15%" src="https://media.giphy.com/media/11vhCpFcD3um7m/giphy.gif">
 
