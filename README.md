@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 ⭐
 -->
 
-
-<img align="right" width="30%" src="https://media.giphy.com/media/26DN2iTaW5mmmJtug/giphy.gif">Soy Alejandro, aquí algunos de mis intereses y cualidades.
+<img align="right" width="30%" src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif">Soy Alejandro, aquí algunos de mis intereses y cualidades.
 
 Vivo en 🇦🇷, tengo 31 años de edad y más de 15 en estrecha relación a proyectos en internet con amplios conocimientos en sitios web, marketing digital y redes sociales, e-commerce, algo de programación.
 
@@ -54,32 +53,31 @@ En todo este tiempo también hice bastante de diseño y gestión integral de eso
 
 También podés ver más de mí en [linkedin](https://linkedin.com/in/alejandrolazcano), mi perfil en [dev.to](https://dev.to/alelazcano) y encontrarme también en otras redes sociales como [Unsplash](https://unsplash.com/@lazcano).
 
-#### _Algunas cosas que me gustan del día a día laboral..._
+#### _Algunas cosas que me gustan del "caos organizado" laboral..._
 
-<img align="left" width="25%" src="https://media.giphy.com/media/3zhxq2ttgN6rEw8SDx/giphy.gif">
+<img align="left" width="15%" src="https://media.giphy.com/media/3zhxq2ttgN6rEw8SDx/giphy.gif">
 
 Pequeños arreglitos, bug fixes, sugerir de manera proactiva mejoras en UX/UI a los clientes.
 
-<img align="right" width="25%" src="https://media.giphy.com/media/11vhCpFcD3um7m/giphy.gif">
+<img align="right" width="15%" src="https://media.giphy.com/media/11vhCpFcD3um7m/giphy.gif">
 
 Leer mucho, a diario, algunas páginas de la [Documentación Javascript](https://developer.mozilla.org/es/docs/Web/API/Console), descubrir cosas útiles para facilitar el trabajo, las rutinas, automatizar, armar pequeños script útiles. También para documentarlos, claro.
 
-<img align="left" width="25%" src="https://media.giphy.com/media/TqiwHbFBaZ4ti/giphy.gif">
+<img align="left" width="15%" src="https://media.giphy.com/media/TqiwHbFBaZ4ti/giphy.gif">
 
 Me gusta mucho personalizar las páginas de error. Algún día publicaré algunas que pasaron a la historia en mis viejos trabajos, otras sólo por diversión. También me gusta desarrollar pequeñas funciones que manejen errores en mis scripts de pasatiempo.
 
-<img align="right" width="25%" src="https://media.giphy.com/media/1pA5hJo0ubWqG0cHqp/giphy.gif">
+<img align="right" width="15%" src="https://media.giphy.com/media/1pA5hJo0ubWqG0cHqp/giphy.gif">
 
 Hacer backups, controlar regularmente el uptime, estadísticas, revisar la tendencia de algunas métricas. Esto me ha permitido, además del típico _romper y saber arreglarlo o aprender a hacerlo_, también de trabajar preventivamente y tener alguna idea o plan de contingencia. _No puede fallar, ¡VA a fallar!_
 
-<img align="left" width="25%" src="https://media.giphy.com/media/3oz8xT4M88PfOPcFmU/giphy.gif">
+<img align="left" width="15%" src="https://media.giphy.com/media/3oz8xT4M88PfOPcFmU/giphy.gif">
 
 Llamar a los clientes para comprender mejor sus requerimientos, hacer sugerencias, propuestas de mejora. También me toca a veces recibir llamadas de ventas, ¡son las que más me gustan!... aunque luego, bueno, se encarga del resto el asesor comercial. Me gusta poder explicar cosas complejas en lo técnico de forma fácil, sea al dueño de una pequeña pyme como al directivo de una multinacional.
 
 
-#### _Viejos proyectos y nuevas ideas; todo se transforma_
+#### _Viejos proyectos y nuevas ideas; todo se transforma..._
 
-<img align="right" width="30%" src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif">
 
 <!-- Por último, lee más sobre [WordPress, Prestashop y medios de pago y correos para e-commerce en Argentina](https://ayudaecommerce.com) en _AyudaEcommerce.com_ un proyecto que reciéntemente comencé hace un año como un anotador/blog en localhost. -->
 
