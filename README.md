@@ -1,6 +1,6 @@
 ### ¡Hola! 👋
 
-> Creativo y curioso incansable, aprendiz fulltime. Diseño y programación web: +10 años de experiencia con WordPress, y ahora actualmente coordinando la mesa de e-commerce con +140 tiendas Prestashop.
+> Creativo y curioso incansable, aprendiz fulltime. Diseño y programación web: +10 años de experiencia con WordPress, y ahora actualmente coordinando la mesa de soporte Prestashop con +140 tiendas e-commerce.
 
 <!--
 **alelazcano/alelazcano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
