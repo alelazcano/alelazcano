@@ -79,7 +79,7 @@ Me gusta mucho personalizar las páginas de error. Algún día publicaré alguna
 <img align="right" width="15%" style="margin: 15px 10px;"  src="https://media.giphy.com/media/1pA5hJo0ubWqG0cHqp/giphy.gif">
  
  
-Hacer backups, controlar regularmente el uptime, estadísticas, revisar la tendencia de algunas métricas. Esto me ha permitido, además del típico _romper y saber arreglarlo o aprender a hacerlo_, también de trabajar preventivamente y tener alguna idea o plan de contingencia. _No puede fallar, ¡VA a fallar!_
+Hacer backups, controlar regularmente el uptime, estadísticas, revisar la tendencia de las métricas. Esto me ha permitido, además del típico _romper y saber arreglarlo o aprender a hacerlo_, también trabajar preventivamente y tener algún plan de contingencia. _No 'puede' fallar, ¡Va a fallar!_
  
  
 <img align="left" width="15%" style="margin: 15px 10px;"  src="https://media.giphy.com/media/3oz8xT4M88PfOPcFmU/giphy.gif">
