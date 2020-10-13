@@ -51,7 +51,11 @@ En todo este tiempo también hice bastante de diseño y gestión integral de eso
 - ⚡ Apoyo algunas webs educativas, ONGs solidarias y brindo ocasionalmente asesoría gratuita a microemprendedores.
 - 🇷🇺 En 2016 viajé durante 1 mes a Moscú, me encantaría volver pronto.
 
-También podés ver más de mí en [linkedin](https://linkedin.com/in/alejandrolazcano), mi perfil en [dev.to](https://dev.to/alelazcano) y encontrarme también en otras redes sociales como [hashnode](https://alelazcano.hashnode.dev) [Unsplash](https://unsplash.com/@lazcano).
+También podés ver más de mí en [linkedin](https://linkedin.com/in/alejandrolazcano), mi perfil en [dev.to](https://dev.to/alelazcano) y encontrarme también en otras redes sociales como [hashnode](https://alelazcano.hashnode.dev), Twitter, [Unsplash](https://unsplash.com/@lazcano)...
+
+
+<hr />
+
 
 #### _Algunas cosas que me gustan del "caos organizado" laboral..._
 
