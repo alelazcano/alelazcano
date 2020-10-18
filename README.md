@@ -48,7 +48,7 @@ En todo este tiempo también hice bastante de diseño y gestión integral de eso
 - 💬 Suelo escribir sobre **[ecommerce, WordPress, Prestashop](https://ayudaecommerce.com)**,blogs y marketing en varios sitios.
 - 🎓 Brindé [talleres](http://cordoba.ir.ar/), [seminarios](https://www.facebook.com/events/573900942960933/) y [webinars](https://www.youtube.com/watch?v=xr5FlhpGekQ).
 - ⚡ Apoyo algunas webs educativas, ONGs solidarias y brindo ocasionalmente asesoría gratuita a microemprendedores.
-- <img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/RU-Russia-Flag-icon.png />🇷🇺 En 2016 viajé durante 1 mes a Moscú, me encantaría volver pronto.
+- <img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/RU-Russia-Flag-icon.png" />🇷🇺 En 2016 viajé durante 1 mes a Moscú, me encantaría volver pronto.
 
 También podés ver más de mí en **[linkedin](https://linkedin.com/in/alejandrolazcano)**, mi perfil en **[dev.to](https://dev.to/alelazcano)** y encontrarme también en otras redes sociales como **[hashnode](https://alelazcano.hashnode.dev)**, Twitter, **[Unsplash](https://unsplash.com/@lazcano)** y otras...
 
