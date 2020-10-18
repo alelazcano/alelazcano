@@ -83,7 +83,10 @@ Llamar a los clientes para comprender mejor sus requerimientos, hacer sugerencia
 #### _Viejos proyectos y nuevas ideas; todo se transforma..._
 
 
-<!-- Por último, lee más sobre [WordPress, Prestashop y medios de pago y correos para e-commerce en Argentina](https://ayudaecommerce.com) en _AyudaEcommerce.com_ un proyecto que reciéntemente comencé hace un año como un anotador/blog en localhost. -->
+<!-- Por último, lee más sobre [WordPress, Prestashop y medios de pago y correos para e-commerce en Argentina](https://ayudaecommerce.com) en _AyudaEcommerce.com_ un proyecto que reciéntemente comencé hace un año como un anotador/blog en localhost.
+
+
+- https://ed.team/@alejandrolazcano -->
 
 ¿Qué me contás? ¡Lo hagamos, tenemos todo para el éxito!
 
