@@ -82,6 +82,7 @@ Llamar a los clientes para comprender mejor sus requerimientos, hacer sugerencia
 
 #### _Viejos proyectos y nuevas ideas; todo se transforma..._
 
+Llevo 20 años de _**HACER**_, podés [ver más de mi experiencia](https://github.com/alelazcano/alelazcano/blob/master/career-roadmap.md) o [contactame y coordinamos una llamada](https://linkedin.com/in/alejandrolazcano).
 
 <!-- Por último, lee más sobre [WordPress, Prestashop y medios de pago y correos para e-commerce en Argentina](https://ayudaecommerce.com) en _AyudaEcommerce.com_ un proyecto que reciéntemente comencé hace un año como un anotador/blog en localhost.
 -->
