@@ -29,7 +29,9 @@ Nací y vivo en <img src="https://icons.iconarchive.com/icons/wikipedia/flags/24
 
 En todo este tiempo también hice bastante de diseño y gestión integral de esos mismos proyectos (web hosting, finanzas, asesoría, etc). Seguro que podremos compartir algunas ideas o colaborar juntos en alguna iniciativa... Mirá más detalles en las próximas líneas.
 
-
+<details>
+  <summary>Mis intereses y actividades</summary>
+ 
 #### _En lo personal..._
 - 📚 Lectura, me gusta aprender de todos los rubros y temas: negocios, espiritualidad, ciencia _fácil_.
 - 🌇 Los atardeceres en soledad o con compañía, adoro esos momentos.
@@ -51,6 +53,8 @@ En todo este tiempo también hice bastante de diseño y gestión integral de eso
 - <img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/RU-Russia-Flag-icon.png" />🇷🇺 En 2016 viajé durante 1 mes a Moscú, me encantaría volver pronto.
 
 También podés ver más de mí en **[linkedin](https://linkedin.com/in/alejandrolazcano)**, mi perfil en **[dev.to](https://dev.to/alelazcano)** y encontrarme también en otras redes sociales como **[hashnode](https://alelazcano.hashnode.dev)**, Twitter, **[Unsplash](https://unsplash.com/@lazcano)** y otras...
+
+</details>
 
 <hr /><br /><br />
 
