@@ -56,6 +56,20 @@ También podés ver más de mí en **[linkedin](https://linkedin.com/in/alejandr
 
 </details>
 
+<details>
+  <summary>Ethical hacker's apprentice (freelance out of curiosity, basically a hobby)</summary>
+  
+  _All vulnerabilities and accesses were reported in detail to those responsible for each case and people with the possibility of correcting it._
+  
+- regional bank, human resources system.
+- real estate, document management system.
+- dental care center, reservation system.
+- educational center, data of pre-registered students.
+- important hospital, vulnerability in WordPress blog plugins.
+
+</details>
+
+
 <hr /><br /><br />
 
 #### _Algunas cosas que me gustan del "caos organizado" laboral..._
