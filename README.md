@@ -4,7 +4,7 @@
 
 <img align="right" width="30%" src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif">Soy Alejandro, aquí algunos de mis intereses y cualidades.
 
-Nací y vivo en <img src="https://icons.iconarchive.com/icons/wikipedia/flags/24/AR-Argentina-Flag-icon.png" />🇦🇷, tengo 31 años de edad y más de 15 en estrecha relación a proyectos en internet con amplios conocimientos en sitios web, marketing digital y redes sociales, e-commerce, algo de programación. También pasé algunos años en otras ciudades y un mes "a la aventura" en Moscú.
+Nací y vivo en <img src="https://icons.iconarchive.com/icons/wikipedia/flags/24/AR-Argentina-Flag-icon.png" />🇦🇷, tengo 33 años de edad y más de 15 en estrecha relación a proyectos en internet con amplios conocimientos en sitios web, marketing digital y redes sociales, e-commerce, algo de programación. También pasé algunos años en otras ciudades y un mes "a la aventura" en Moscú.
 
 En todo este tiempo también hice bastante de diseño y gestión integral de esos mismos proyectos (web hosting, finanzas, asesoría, etc). Seguro que podremos compartir algunas ideas o colaborar juntos en alguna iniciativa... Mirá más detalles en las próximas líneas.
 
@@ -40,12 +40,12 @@ También podés ver más de mí en **[linkedin](https://linkedin.com/in/alejandr
   
   _All the vulnerabilities were duly notified to the responsible companies or institutions, in addition to the competent security center and in some cases shared with foundations on security and freedom in the network for the proper management of their responsible disclosure and monitoring._
   
-- regional bank, human resources system.
-- real estate, document management system.
-- dental care center, reservation system.
-- educational center, data of pre-registered students.
-- important hospital, vulnerability in WordPress blog plugins.
-- growing social network, data breach (sensitive private data).
+  - regional bank, human resources system.
+  - real estate, document management system.
+  - dental care center, reservation system.
+  - educational center, data of pre-registered students.
+  - important hospital, vulnerability in WordPress blog plugins.
+  - growing social network, data breach (sensitive private data).
 </details>
 
 
