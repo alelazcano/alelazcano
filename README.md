@@ -2,27 +2,6 @@
 
 > Creativo y curioso incansable, aprendiz fulltime. Diseño y programación web: +10 años de experiencia con WordPress, y ahora actualmente coordinando la mesa de soporte Prestashop con +140 tiendas e-commerce.
 
-<!--
-**alelazcano/alelazcano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Actualmente trabajando en una agencia e-commerce y una decena de proyectos freelance.
-- 🌱 Estoy en permanente lectura, aprendizaje y creando pequeños desarrollos en Javascript y PHP.
-- 👯 Me interesa colaborar en Grupos de Facebook y foros de E-commerce y Pymes en proceso de transformación digital.
-- 🤔 Algunas veces también me cuestiono sobre cómo funciona el mundo, cada vez menos humano y más digital.
-- 💬 Me gusta intercambiar ideas, cuestionar los procesos, promover el conocimiento compartido y hablar de todo.
-- 📫 Si bien me encuentro cómodo en mi trabajo actual, me gusta continuar recibiendo propuestas.
-- 😄 Aún cuando el día amanece gris, es una decisión el sonreir y sobreponerse a los estados de ánimos y el desequilibrio de las energías.
-- ⚡ Me divierte planificar mis viajes futuros, y se que cumpliré todos mis sueños.
-
-- 🧬 Cursé 2 años de Biotecnología y tecnología de los alimentos.
-- 🎓 Oficialmente técnico en calidad y comercialización (agropecuaria).
-- 🌱 Perito clasificador de cereales, oleaginosas y legumbres.
-
-⭐
--->
-
 <img align="right" width="30%" src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif">Soy Alejandro, aquí algunos de mis intereses y cualidades.
 
 Nací y vivo en <img src="https://icons.iconarchive.com/icons/wikipedia/flags/24/AR-Argentina-Flag-icon.png" />🇦🇷, tengo 31 años de edad y más de 15 en estrecha relación a proyectos en internet con amplios conocimientos en sitios web, marketing digital y redes sociales, e-commerce, algo de programación. También pasé algunos años en otras ciudades y un mes "a la aventura" en Moscú.
@@ -59,14 +38,14 @@ También podés ver más de mí en **[linkedin](https://linkedin.com/in/alejandr
 <details>
   <summary>Ethical hacker's apprentice (freelance out of curiosity, basically a hobby)</summary>
   
-  _All vulnerabilities and accesses were reported in detail to those responsible for each case and people with the possibility of correcting it._
+  _All the vulnerabilities were duly notified to the responsible companies or institutions, in addition to the competent security center and in some cases shared with foundations on security and freedom in the network for the proper management of their responsible disclosure and monitoring._
   
 - regional bank, human resources system.
 - real estate, document management system.
 - dental care center, reservation system.
 - educational center, data of pre-registered students.
 - important hospital, vulnerability in WordPress blog plugins.
-
+- growing social network, data breach (sensitive private data).
 </details>
 
 
@@ -100,10 +79,8 @@ Llamar a los clientes para comprender mejor sus requerimientos, hacer sugerencia
 
 #### _Viejos proyectos y nuevas ideas; todo se transforma..._
 
-Llevo 20 años de _**HACER**_, podés [ver más de mi experiencia](https://github.com/alelazcano/alelazcano/blob/master/career-roadmap.md) o [contactame y coordinamos una llamada](https://linkedin.com/in/alejandrolazcano).
+Llevo 20 años de _**HACER**_, podés [ver más de mi experiencia](https://linkedin.com/in/alejandrolazcano).
 
-<!-- Por último, lee más sobre [WordPress, Prestashop y medios de pago y correos para e-commerce en Argentina](https://ayudaecommerce.com) en _AyudaEcommerce.com_ un proyecto que reciéntemente comencé hace un año como un anotador/blog en localhost.
--->
 
-¿Qué me contás? ¡Lo hagamos, tenemos todo para el éxito!
+¿Qué me contás? Trabajemos juntos. ¡Lo hagamos, tenemos todo para el éxito!
 
