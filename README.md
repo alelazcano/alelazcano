@@ -1,4 +1,4 @@
-### ¡Hola! 👋
+# ¡Hola! 👋 soy Alejandro Lazcano
 
 > Creativo y curioso incansable, aprendiz fulltime. Diseño y programación web: +10 años de experiencia con WordPress, y ahora actualmente coordinando la mesa de soporte Prestashop con +140 tiendas e-commerce.
 
@@ -51,7 +51,7 @@ También podés ver más de mí en **[linkedin](https://linkedin.com/in/alejandr
 
 <hr /><br /><br />
 
-#### _Algunas cosas que me gustan del "caos organizado" laboral..._
+## Alejandro Lazcano - ecommerce, product owner, project manager, y (ex) desarrollo web
 
 <img align="left" width="15%" style="margin: 15px 10px;" src="https://media.giphy.com/media/3zhxq2ttgN6rEw8SDx/giphy.gif">
 
@@ -77,7 +77,7 @@ Llamar a los clientes para comprender mejor sus requerimientos, hacer sugerencia
 
 <hr /><br /><br />
 
-#### _Viejos proyectos y nuevas ideas; todo se transforma..._
+## ¿Buscas un analista funcional, product owner, project manager, con conocimiento técnico y experiencia en ecommerce? Mira mi linkedin ;)
 
 Llevo 20 años de _**HACER**_, podés [ver más de mi experiencia](https://linkedin.com/in/alejandrolazcano).
 
