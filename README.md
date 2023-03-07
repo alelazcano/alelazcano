@@ -77,7 +77,9 @@ Llamar a los clientes para comprender mejor sus requerimientos, hacer sugerencia
 
 <hr /><br /><br />
 
-## ¿Buscas un analista funcional, product owner, project manager, con conocimiento técnico y experiencia en ecommerce? Mira mi linkedin ;)
+## ¿Buscas un analista funcional, product owner, project manager, con conocimiento técnico y *experiencia en ecommerce*?
+
+#### Mira mi linkedin ;) -> Alejandro Lazcano: Product Owner, Project Manager. Retail Ecommerce: Vtex, Janis, Prestashop. Ex Javascript/Php/Sql developer
 
 Llevo 20 años de _**HACER**_, podés [ver más de mi experiencia](https://linkedin.com/in/alejandrolazcano).
 
