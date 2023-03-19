@@ -1,6 +1,6 @@
 # ¡Hola! 👋 soy Alejandro Lazcano
 
-> Creativo y curioso incansable, aprendiz fulltime. Diseño y programación web: +10 años de experiencia con WordPress, y ahora actualmente coordinando la mesa de soporte Prestashop con +140 tiendas e-commerce.
+> Creativo y curioso incansable, aprendiz fulltime. Diseño y programación web: +10 años de experiencia con WordPress, y ahora actualmente coordinando la mesa de soporte Prestashop con +140 tiendas e-commerce. Hoy en día orientado al Análisis funcional, product owner, project manager, en proyectos ecommerce.
 
 <img align="right" width="30%" src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif">Soy Alejandro, aquí algunos de mis intereses y cualidades.
 
@@ -79,9 +79,9 @@ Llamar a los clientes para comprender mejor sus requerimientos, hacer sugerencia
 
 ## ¿Buscas un analista funcional, product owner, project manager, con conocimiento técnico y *experiencia en ecommerce*?
 
-#### Mira mi linkedin ;) -> Alejandro Lazcano: Product Owner, Project Manager. Retail Ecommerce: Vtex, Janis, Prestashop. Ex Javascript/Php/Sql developer
+#### Mira mi linkedin ;) -> [Alejandro Lazcano: Product Owner, Project Manager. Retail Ecommerce: Vtex, Janis, Prestashop. Ex Javascript/Php/Sql developer](https://linkedin.com/in/alejandrolazcano)
 
-Llevo 20 años de _**HACER**_, podés [ver más de mi experiencia](https://linkedin.com/in/alejandrolazcano).
+Llevo 20 años de _**HACER**_, podés [ver más de mi experiencia](https://lazcano.com.ar) también en mi blog.
 
 
 ¿Qué me contás? Trabajemos juntos. ¡Lo hagamos, tenemos todo para el éxito!
