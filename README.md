@@ -10,7 +10,7 @@ En plena pandemia, tomé el desafío de acompañar a grandes marcas de Latam hac
 
 Más reciente, lideré el equipo de productos BI en una de las agencias ecommerce fulfillment más grandes del mundo.
 
-<img align="right" width="30%" src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif">Soy Alejandro, aquí algunos de mis intereses y cualidades.
+## <img align="right" width="30%" src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif">Algunos de mis intereses y cualidades.
 
 Nací en <img src="https://icons.iconarchive.com/icons/wikipedia/flags/24/AR-Argentina-Flag-icon.png" />🇦🇷, pero quizás hoy me encuentres viviendo en otro país; me gusta el trabajo remoto, aunque a veces extraño la oficina. Tengo 35 años de edad y más de 15 en estrecha relación a proyectos en internet, con amplios conocimientos en sitios web, marketing digital y redes sociales, e-commerce, programación web full-stack, integraciones, etc. También pasé algunos años y meses experimentando la vida en otras ciudades: Rusia, Brasil, Argentina, etc.
 
