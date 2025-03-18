@@ -2,7 +2,9 @@
 
 # Alejandro Lazcano
 
-**Product Manager | Analista funcional | Product Owner | Project Manager | Especialista en eCommerce y Business Intelligence**
+**Product Manager | Analista funcional | Product Owner | Project Manager | Agile**
+
+**Especializado en plataformas eCommerce y Business Intelligence**
 
 Soy un profesional con más de 15 años de experiencia en tecnología, marketing digital y comercio electrónico. Comencé mi carrera como desarrollador full-stack y evolucioné hacia roles de liderazgo en proyectos digitales, combinando visión técnica, de producto y estratégica comercial.
 
