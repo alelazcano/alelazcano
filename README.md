@@ -10,7 +10,6 @@ Soy un profesional con más de 15 años de experiencia en tecnología, marketing
 
 Mi recorrido abarca desde la implementación de soluciones eCommerce en plataformas como **PrestaShop y VTEX** para grandes marcas y con millones de pedidos a mi cargo, hasta la gestión de productos de datos y **Business Intelligence** en una de las agencias de fulfillment y eCommerce más grandes de LATAM.
 
----
 
 ## 🔎 ¿Qué hago?
 
@@ -21,7 +20,7 @@ Mi recorrido abarca desde la implementación de soluciones eCommerce en platafor
 - Experiencia en **retail y supermercados**, otros negocios de alta complejidad operativa (picking, packing, delivery, auditorías)
 - Es mi hobby analizar tácticas para **optimizar la conversión, la perfomance de los procesos** los catálogos y la UX
 
----
+
 
 ## 🌐 Sobre mí
 
@@ -35,21 +34,21 @@ Originario de 🇦🇷 Argentina, pero con experiencia viviendo y trabajando en 
 - 🤝 Foco en crear **valor y soluciones reales** para las empresas y sus equipos
 - 🌱 Mentor de microemprendedores y colaborador en proyectos educativos y sociales
 
----
+
 
 ## 📚 También
 - ✍️ Escribo sobre eCommerce, productos, proyectos ágiles, BI y tecnología en mi [blog](https://lazcano.com.ar).
 - 🎓 He dado capacitaciones, talleres, seminarios y webinars sobre tecnología y negocios digitales.
 - ⚡ Colaboro con software libre, comunidades, ONGs y emprendedores aportando mi experiencia.
 
----
+
 
 ## 📩 ¿Buscas un perfil técnico con mirada de negocio?
 Conectemos en [LinkedIn](https://linkedin.com/in/alejandrolazcano)
 
 O conocé más sobre mi en: [https://lazcano.com.ar](https://lazcano.com.ar)
 
----
+
 
 💬 **¿Hablamos?** Estoy abierto a colaborar en proyectos donde la tecnología y los datos potencien negocios.
 
@@ -58,6 +57,8 @@ O conocé más sobre mi en: [https://lazcano.com.ar](https://lazcano.com.ar)
 
 
 ---
+
+
 
 ## 🌐 Otros perfiles y redes donde podés encontrarme
 
