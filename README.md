@@ -1,5 +1,12 @@
 # ¡Hola! 👋 soy Alejandro Lazcano
 
+🏗️ en reformas 🚧
+
+---
+
+![Apasionado por impulsar el comercio electrónico - portada linkedin animada](https://github.com/user-attachments/assets/4a58282b-96bb-48e6-bd93-2821d074e8a8)
+
+
 Creativo y curioso incansable, aprendiz fulltime.
 
 Hice marketing y publicidad digital, y luego diseño y programación web: +10 años de experiencia con WordPress.
